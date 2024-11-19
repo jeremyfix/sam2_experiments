@@ -7,7 +7,7 @@ A repository to test SAM2 with bounding box prompting.
 ```.python
 python3 -m venv venv
 source venv/bin/activate
-python -m pip install sam2 huggingface_hub pandas
+python -m pip install sam2 huggingface_hub pandas numpy matplotlib pillow
 ```
 
 ## Usage 
